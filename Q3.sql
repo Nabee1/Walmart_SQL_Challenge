@@ -6,7 +6,6 @@ SQL Challenge Q3
 /* *********Assumptions************ */
 --Fiscal Q1= Jan - Mar, Q2= Apr - Jun,..
 -- Date Handling: Date is assumed to be of the format YYYYMMDD 
--- There exists atleast one transaction per quarter of 2017
 -- Query is generalized to work for all years, changes to be made to the date filter as per requirement
 
 

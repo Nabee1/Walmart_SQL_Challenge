@@ -9,7 +9,7 @@ SQL Challenge Q2
 /* *********Assumptions************ */
 --Amount is inclusive of quantity => Amount = item_price * quantity
 -- Date Handling: Date is assumed to be of the format YYYYMMDD 
-
+-- There exists atleast one transaction per month of 2017
 /* Building on top of the base table 
    This table uses SUM OVER ORDER BY to calculate cummulative sum
    Cummulative sum is calculated separate for DOTCOM and OG as requested*/
